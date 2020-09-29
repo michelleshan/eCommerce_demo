@@ -15,3 +15,8 @@
 /log/*
 !/log/.keep
 /tmp
+
+*.keep
+.ru
+index.md
+.DS_Store

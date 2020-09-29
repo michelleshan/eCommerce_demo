@@ -23,19 +23,22 @@ The most challenging part of this project was setting up the relationships betwe
 ### Screenshots of it working
 
 The home page when a user is logged in:
-!["home page"](https://github.com/michelleshan/job_board/blob/master/assets/Screen%20Shot%202020-09-28%20at%203.01.22%20PM.png)
+!["home page"](https://github.com/michelleshan/eCommerce_demo/blob/master/app/assets/images/Screen%20Shot%202020-09-29%20at%2010.07.00%20AM.png)
 
 The log-in/registration page with a validation error message:
-!["login"](https://github.com/michelleshan/job_board/blob/master/assets/Screen%20Shot%202020-09-28%20at%203.39.38%20PM.png)
+!["login"](https://github.com/michelleshan/eCommerce_demo/blob/master/app/assets/images/Screen%20Shot%202020-09-29%20at%2010.25.10%20AM.png)
 
 A user's shopping cart:
-!["shopping cart"](https://github.com/michelleshan/job_board/blob/master/assets/Screen%20Shot%202020-09-28%20at%203.39.38%20PM.png)
+!["shopping cart"](https://github.com/michelleshan/eCommerce_demo/blob/master/app/assets/images/Screen%20Shot%202020-09-29%20at%2010.22.03%20AM.png)
+
+An individual product page:
+!["product view"](https://github.com/michelleshan/eCommerce_demo/blob/master/app/assets/images/Screen%20Shot%202020-09-29%20at%2010.23.45%20AM.png)
 
 The new product form:
-!["new product"](https://github.com/michelleshan/job_board/blob/master/assets/Screen%20Shot%202020-09-28%20at%203.39.38%20PM.png)
+!["new product"](https://github.com/michelleshan/eCommerce_demo/blob/master/app/assets/images/Screen%20Shot%202020-09-29%20at%2010.23.32%20AM.png)
 
 A user's profile:
-!["profile"](https://github.com/michelleshan/job_board/blob/master/assets/Screen%20Shot%202020-09-28%20at%203.39.38%20PM.png)
+!["profile"](https://github.com/michelleshan/eCommerce_demo/blob/master/app/assets/images/Screen%20Shot%202020-09-29%20at%2010.22.38%20AM.png)
 
 Form to edit a user's information:
-!["edit profile"](https://github.com/michelleshan/job_board/blob/master/assets/Screen%20Shot%202020-09-28%20at%203.39.38%20PM.png)
+!["edit profile"](https://github.com/michelleshan/eCommerce_demo/blob/master/app/assets/images/Screen%20Shot%202020-09-29%20at%2010.23.16%20AM.png)
